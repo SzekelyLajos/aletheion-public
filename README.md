@@ -3,28 +3,81 @@
 This repository contains the public declaration and high-level documentation
 of Aletheion, a non-agentic cognitive incubation framework.
 
-## What This Is
+Aletheion is not an AI model, not an agent, and not a product.
+It does not simulate consciousness, agency, or autonomous decision-making.
+
+---
+
+## What Aletheion Is
+
 Aletheion defines a conceptual space where cognitive configurations
-can be examined for internal coherence and structural stability.
+can be examined for:
 
-This is not:
-- an AI model
-- an AGI system
+- internal coherence
+- structural stability
+- semantic integrity
+
+The focus is not on producing answers or decisions,
+but on exposing internal tensions and inconsistencies
+within a cognitive structure.
+
+No optimization goals are used.
+No reward mechanisms are present.
+No autonomous behavior is implemented.
+
+---
+
+## What Aletheion Is Not
+
+Aletheion is explicitly NOT:
+
+- an AGI project
+- a conscious system
+- an AI agent
 - a chatbot
-- an autonomous agent
-- a product or software
+- a decision-making engine
+- a commercial product
+- a startup or roadmap
 
-## Included Documents
-- **ALETHEION_Public_Declaration.pdf** — public declaration with license
-- **CONCEPT_OVERVIEW.md** — concise conceptual summary
-- **CORE_PRINCIPLES.md** — core principles list
-- **WHAT_THIS_IS_NOT.md** — boundaries and exclusions
-- **LICENSE.txt** — Creative Commons BY-NC-SA 4.0
+Any interpretation beyond these boundaries is incorrect.
+
+---
+
+## Core Principles (Summary)
+
+- Internal coherence takes precedence over output quality
+- Cognitive structure is separated from narrative or persona
+- Incubation replaces training
+- Reduction of internal tension is preferred over solution generation
+- Clarity is valued over performance
+
+(See CORE_PRINCIPLES.md for the full list.)
+
+---
+
+## Repository Contents
+
+- **ALETHEION_Public_Declaration.pdf**  
+  Public, timestamped declaration with licensing terms
+
+- **CORE_PRINCIPLES.md**  
+  Full list of core principles
+
+- **LICENSE.txt**  
+  Creative Commons BY-NC-SA 4.0 license
+
+---
 
 ## License
-This work is licensed under Creative Commons Attribution-NonCommercial-ShareAlike 4.0.
+
+This work is licensed under the Creative Commons
+Attribution-NonCommercial-ShareAlike 4.0 International License.
+
 Commercial use requires explicit written permission from the author.
 
+---
+
 ## Discussion
-This repo is intended for public discussion, inspection, and scholarly reference,
-not as a software release or product.
+
+This repository is shared for public discussion and inspection.
+It is not a software release and contains no executable code.
